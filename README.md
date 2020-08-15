@@ -18,4 +18,6 @@
 <li>User can see 'ERR' displayed if any operation would exceed the 8 digit maximum.</li>
 </ul>
 <h2>Constraints</h2>
+<ul>
 <li>You may not use the eval() function to execute calculations.</li>
+</ul>
